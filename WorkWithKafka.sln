@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KafkaConsumer", "KafkaConsu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KafkaProducer", "KafkaProducer\KafkaProducer.csproj", "{25B5F092-9AA0-4E84-9198-A5945E555807}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CFE6404-AF38-4C82-AA7D-B12A8C9F858C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF5B1F83-92FC-4211-B776-72A177D82830}"
 	ProjectSection(SolutionItems) = preProject
-		E:\Docker\zk-single-kafka-single.yml = E:\Docker\zk-single-kafka-single.yml
+		kafka-docker-compose.yml = kafka-docker-compose.yml
 	EndProjectSection
 EndProject
 Global

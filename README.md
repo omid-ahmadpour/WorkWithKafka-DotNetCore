@@ -1,3 +1,3 @@
 # Working With Kafka in DotNetCore
 
-### Kafka using .NET Core
+### Kafka using .Net Core and docker-compose
